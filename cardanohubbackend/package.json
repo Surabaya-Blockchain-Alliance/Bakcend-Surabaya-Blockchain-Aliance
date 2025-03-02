@@ -1,0 +1,21 @@
+{
+  "name": "cardanohubbackend",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dcspark/cardano-multiplatform-lib-nodejs": "^6.1.0",
+    "axios": "^1.8.1",
+    "cbor": "^10.0.3",
+    "express": "^4.21.2"
+  }
+}
